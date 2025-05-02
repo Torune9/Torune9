@@ -10,7 +10,8 @@ A fresh graduate with an Associate Degree (D3) in Informatics Engineering, gradu
 
 #### Connect With Me
 
-![https://www.linkedin.com/in/rahman-nurhayadi](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahman-nurhayadi)
+
 
 *Always learning new things – currently diving into TypeScript and testing*  
 
